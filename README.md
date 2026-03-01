@@ -27,10 +27,10 @@
 
 ## 🤖 AI & Machine Learning
 
+- 🧠 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
 - 📄 **[ai-papers](https://github.com/Calculator5329/ai-papers)** — arXiv paper dashboard with AI-generated summaries and chatbot
 - 📰 **[news-bias-analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
 - 📚 **[book-recommender](https://github.com/Calculator5329/book-recommender)** — ML recommendation engine using OpenAI embeddings and FAISS across 45k+ books
-- 🧠 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
 
 ## 🎮 Games & Creative
 
