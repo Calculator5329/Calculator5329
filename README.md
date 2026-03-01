@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-📍 **Rochester, MN** | 🤖 **AI & Full-Stack Builder** | 🚀 **Building tools that actually get used**
+📍 **Rochester, MN** | 🤖 **AI & Full-Stack Builder**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -12,7 +12,6 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 > I build AI-powered tools and full-stack web apps — from NLP analyzers to game engines.
-> If it solves a real problem, I ship it.
 
 ---
 
