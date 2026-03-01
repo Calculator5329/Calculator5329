@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-📍 **Rochester, MN** | 🤖 **AI & Full-Stack Builder**
+📍 **Rochester, MN** | 🤖 **AI & Full-Stack Builder** | 🎓 **AI/ML Master's Student @ WGU** | 💼 **Software Engineer @ Dovaxis**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-## Projects
+## 🌐 Full-Stack Web Apps
 
 - 🌐 **[Personal Site](https://calculator5329.github.io)** — Portfolio, resume, and project hub ([live](https://calculator5329.github.io))
 - 🧮 **[n2k-webapp](https://github.com/Calculator5329/n2k-webapp)** — Mental math minigames with leaderboards and user profiles ([live](https://mentalmath.site))
@@ -23,16 +23,31 @@
 - 📊 **[finance-gui](https://github.com/Calculator5329/finance-gui)** — Node-based visual retirement planner with drag-and-drop income flow and projection charts ([live](https://finance-gui-d5ea8.web.app))
 - 💰 **[fidelity-clone](https://github.com/Calculator5329/fidelity-clone)** — Full-featured portfolio tracker with charts, TWRR analysis, and stock deep dives ([live](https://fidelity-portfolio-d5ea8.web.app))
 - 🎵 **[rhymes-highlighted](https://github.com/Calculator5329/rhymes-highlighted)** — Poetry and lyrics editor that visually maps rhyme schemes in real time ([live](https://rhymes-highlighted-d5ea8.web.app))
-- 🌌 **[infinite-horizons-v3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
-- 📄 **[ai-papers](https://github.com/Calculator5329/ai-papers)** — arXiv paper dashboard with AI-generated summaries and chatbot
-- 🗞️ **[news-bias-analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
 - 📈 **[stock-site](https://github.com/Calculator5329/stock-site)** — Interactive portfolio backtester with historical market data and visual metrics
+
+## 🤖 AI & Machine Learning
+
+- 📄 **[ai-papers](https://github.com/Calculator5329/ai-papers)** — arXiv paper dashboard with AI-generated summaries and chatbot
+- 📰 **[news-bias-analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
 - 📚 **[book-recommender](https://github.com/Calculator5329/book-recommender)** — ML recommendation engine using OpenAI embeddings and FAISS across 45k+ books
-- 🤖 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
+- 🧠 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
+
+## 🎮 Games & Creative
+
+- 🌍 **[infinite-horizons-v3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
 
 ---
 
-## What I'm Doing
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Calculator5329&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calculator5329&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 💡 What I'm Doing
 
 - **Building AI-powered web apps** — Connecting modern LLMs to practical interfaces
 - **Full-stack from scratch** — React + FastAPI + PostgreSQL, deployed and live
@@ -40,7 +55,8 @@
 
 ---
 
-## Connect
+## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-gates5329)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Calculator5329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-gates5329)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://calculator5329.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Calculator5329)
