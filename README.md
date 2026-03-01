@@ -22,7 +22,11 @@
 - 🗞️ **[news-bias-analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
 - 📈 **[stock-site](https://github.com/Calculator5329/stock-site)** — Interactive portfolio backtester with historical market data and visual metrics 
 - 📚 **[book-recommender](https://github.com/Calculator5329/book-recommender)** — ML recommendation engine using OpenAI embeddings and FAISS across 45k+ books
-- ⚡ **[circuit-builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator
+- ⚡ **[circuit-builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator ([live](https://circuit-builder-d5ea8.web.app))
+- 💰 **[fidelity-clone](https://github.com/Calculator5329/fidelity-clone)** — Full-featured portfolio tracker with charts, TWRR analysis, and stock deep dives ([live](https://fidelity-portfolio-d5ea8.web.app))
+- 🎵 **[rhymes-highlighted](https://github.com/Calculator5329/rhymes-highlighted)** — Poetry and lyrics editor that visually maps rhyme schemes in real time ([live](https://rhymes-highlighted-d5ea8.web.app))
+- 🌌 **[infinite-horizons-v3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
+- 🤖 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
 
 ---
 
