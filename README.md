@@ -27,23 +27,14 @@
 
 ## 🤖 AI & Machine Learning
 
-- 🧠 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
 - 📄 **[ai-papers](https://github.com/Calculator5329/ai-papers)** — arXiv paper dashboard with AI-generated summaries and chatbot
 - 📰 **[news-bias-analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
 - 📚 **[book-recommender](https://github.com/Calculator5329/book-recommender)** — ML recommendation engine using OpenAI embeddings and FAISS across 45k+ books
+- 🧠 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
 
 ## 🎮 Games & Creative
 
 - 🌍 **[infinite-horizons-v3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calculator5329&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calculator5329&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 ---
 
