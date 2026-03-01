@@ -20,6 +20,7 @@
 - 🌐 **[Personal Site](https://calculator5329.github.io)** — Portfolio, resume, and project hub ([live](https://calculator5329.github.io))
 - 🧮 **[n2k-webapp](https://github.com/Calculator5329/n2k-webapp)** — Mental math minigames with leaderboards and user profiles ([live](https://mentalmath.site))
 - ⚡ **[circuit-builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator ([live](https://circuit-builder-d5ea8.web.app))
+- 📊 **[finance-gui](https://github.com/Calculator5329/finance-gui)** — Node-based visual retirement planner with drag-and-drop income flow and projection charts ([live](https://finance-gui-d5ea8.web.app))
 - 💰 **[fidelity-clone](https://github.com/Calculator5329/fidelity-clone)** — Full-featured portfolio tracker with charts, TWRR analysis, and stock deep dives ([live](https://fidelity-portfolio-d5ea8.web.app))
 - 🎵 **[rhymes-highlighted](https://github.com/Calculator5329/rhymes-highlighted)** — Poetry and lyrics editor that visually maps rhyme schemes in real time ([live](https://rhymes-highlighted-d5ea8.web.app))
 - 🌌 **[infinite-horizons-v3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
