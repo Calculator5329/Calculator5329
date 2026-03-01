@@ -28,15 +28,9 @@
 
 ---
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Calculator5329)
-
----
-
 ## What I'm Doing
 
-- **Building AI-powered web apps** — Connecting modern LLMs to practical interfaces people actually use
+- **Building AI-powered web apps** — Connecting modern LLMs to practical interfaces
 - **Full-stack from scratch** — React + FastAPI + PostgreSQL, deployed and live
 - **Exploring ML at the edges** — Embeddings, NLP classifiers, neural net visualization, procedural generation
 
@@ -44,5 +38,5 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Calculator5329)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Calculator5329)
