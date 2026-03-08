@@ -20,7 +20,7 @@
 - 🤖 **[Gates AI](https://github.com/Calculator5329/gates-ai)** — GatesAI business site - AI automation and web development for small businesses ([live](https://gatesai.site))
 - 🧮 **[N2K Player](https://github.com/Calculator5329/n2k-webapp)** — Mental math minigames with leaderboards and user profiles ([live](https://mentalmath.site))
 - ⚡ **[Circuit Builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator ([live](https://circuit-builder-d5ea8.web.app))
-- 📊 **[Node Finance Planner](https://github.com/Calculator5329/finance-gui)** — Node-based visual retirement planner with drag-and-drop income flow and projection charts ([live](https://finance-gui-d5ea8.web.app))
+- 📊 **[Node Finance Planner](https://github.com/Calculator5329/finance-gui)** — Node-based visual retirement planner ([live](https://finance-gui-d5ea8.web.app))
 - 🧾 **[US Tax Explorer](https://github.com/Calculator5329/tax-explorer)** — Interactive US tax burden dashboard with state comparisons and historical rate trends ([live](https://tax-explorer-app.web.app))
 - 💰 **[Fidelity Clone](https://github.com/Calculator5329/fidelity-clone)** — Full-featured portfolio tracker with charts, TWRR analysis, and stock deep dives ([live](https://fidelity-portfolio-d5ea8.web.app))
 - 🎵 **[Rhymes Highlighter](https://github.com/Calculator5329/rhymes-highlighted)** — Poetry and lyrics editor that visually maps rhyme schemes in real time ([live](https://rhymes-highlighted-d5ea8.web.app))
