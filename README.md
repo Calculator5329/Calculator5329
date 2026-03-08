@@ -17,25 +17,25 @@
 ## 🌐 Full-Stack Web Apps
 
 - 🌐 **[Personal Site](https://calculator5329.github.io)** — Portfolio, resume, and project hub ([live](https://calculator5329.github.io))
-- 🤖 **[gates-ai](https://github.com/Calculator5329/gates-ai)** — GatesAI business site - AI automation and web development for small businesses ([live](https://gatesai.site))
-- 🧮 **[n2k-webapp](https://github.com/Calculator5329/n2k-webapp)** — Mental math minigames with leaderboards and user profiles ([live](https://mentalmath.site))
-- ⚡ **[circuit-builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator ([live](https://circuit-builder-d5ea8.web.app))
-- 📊 **[finance-gui](https://github.com/Calculator5329/finance-gui)** — Node-based visual retirement planner with drag-and-drop income flow and projection charts ([live](https://finance-gui-d5ea8.web.app))
-- 🧾 **[tax-explorer](https://github.com/Calculator5329/tax-explorer)** — Interactive US tax burden dashboard with state comparisons and historical rate trends ([live](https://tax-explorer-app.web.app))
-- 💰 **[fidelity-clone](https://github.com/Calculator5329/fidelity-clone)** — Full-featured portfolio tracker with charts, TWRR analysis, and stock deep dives ([live](https://fidelity-portfolio-d5ea8.web.app))
-- 🎵 **[rhymes-highlighted](https://github.com/Calculator5329/rhymes-highlighted)** — Poetry and lyrics editor that visually maps rhyme schemes in real time ([live](https://rhymes-highlighted-d5ea8.web.app))
-- 📈 **[stock-site](https://github.com/Calculator5329/stock-site)** — Interactive portfolio backtester with historical market data and visual metrics
+- 🤖 **[Gates AI](https://github.com/Calculator5329/gates-ai)** — GatesAI business site - AI automation and web development for small businesses ([live](https://gatesai.site))
+- 🧮 **[N2K Player](https://github.com/Calculator5329/n2k-webapp)** — Mental math minigames with leaderboards and user profiles ([live](https://mentalmath.site))
+- ⚡ **[Circuit Builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator ([live](https://circuit-builder-d5ea8.web.app))
+- 📊 **[Node Finance Planner](https://github.com/Calculator5329/finance-gui)** — Node-based visual retirement planner with drag-and-drop income flow and projection charts ([live](https://finance-gui-d5ea8.web.app))
+- 🧾 **[US Tax Explorer](https://github.com/Calculator5329/tax-explorer)** — Interactive US tax burden dashboard with state comparisons and historical rate trends ([live](https://tax-explorer-app.web.app))
+- 💰 **[Fidelity Clone](https://github.com/Calculator5329/fidelity-clone)** — Full-featured portfolio tracker with charts, TWRR analysis, and stock deep dives ([live](https://fidelity-portfolio-d5ea8.web.app))
+- 🎵 **[Rhymes Highlighter](https://github.com/Calculator5329/rhymes-highlighted)** — Poetry and lyrics editor that visually maps rhyme schemes in real time ([live](https://rhymes-highlighted-d5ea8.web.app))
+- 📈 **[Portfolio Backtester](https://github.com/Calculator5329/stock-site)** — Interactive portfolio backtester with historical market data and visual metrics
 
 ## 🤖 AI & Machine Learning
 
-- 🧠 **[agent-v2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
-- 📄 **[ai-papers](https://github.com/Calculator5329/ai-papers)** — arXiv paper dashboard with AI-generated summaries and chatbot
-- 📰 **[news-bias-analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
-- 📚 **[book-recommender](https://github.com/Calculator5329/book-recommender)** — ML recommendation engine using OpenAI embeddings and FAISS across 45k+ books
+- 🧠 **[Agent V2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agentic backend (OpenAI / Anthropic / Gemini) with schema-validated tools and SSE streaming
+- 📄 **[AI Papers](https://github.com/Calculator5329/ai-papers)** — arXiv paper dashboard with AI-generated summaries and chatbot
+- 📰 **[News Bias Analyzer](https://github.com/Calculator5329/news-bias-analyzer)** — NLP classifier that scores news articles for political bias and fake news
+- 📚 **[Book Reccomender](https://github.com/Calculator5329/book-recommender)** — ML recommendation engine using OpenAI embeddings and FAISS across 45k+ books
 
 ## 🎮 Games & Creative
 
-- 🌍 **[infinite-horizons-v3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
+- 🌍 **[Infinite Horizons V3](https://github.com/Calculator5329/infinite-horizons-v3)** — Procedurally generated open-world game with exploration and resource systems ([live](https://infinite-horizons-online.web.app))
 
 ---
 
