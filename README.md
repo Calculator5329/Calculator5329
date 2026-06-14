@@ -10,7 +10,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> I build AI-powered tools and full-stack web apps — from NLP analyzers to game engines.
+> I build AI-powered tools, full stack web apps, and the occasional game.
 
 ---
 
