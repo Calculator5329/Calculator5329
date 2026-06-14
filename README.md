@@ -36,6 +36,7 @@ I build practical AI tools, full-stack web apps, data-heavy dashboards, and inte
 |---|---|---|
 | **Finance GUI** | Node-based visual retirement and financial-planning canvas | [source](https://github.com/Calculator5329/finance-gui) · [live](https://finance-gui-d5ea8.web.app) |
 | **Portfolio Analytics Lab** | Investment dashboard with transaction parsing, performance views, charts, and stock deep dives | [source](https://github.com/Calculator5329/fidelity-clone) · [live](https://fidelity-portfolio-d5ea8.web.app) |
+| **Neon Vector Defense** | Sci-fi tower-defense game with Canvas rendering, headless balance simulations, procedural audio/art, and Firebase leaderboards | [live](https://neon-vector-defense-7.web.app) |
 | **Rhymes Highlighted** | Writing editor that highlights rhyme schemes and manages local projects | [source](https://github.com/Calculator5329/rhymes-highlighted) · [live](https://rhymes-highlighted-d5ea8.web.app) |
 | **AI Papers** | arXiv dashboard with AI-generated paper summaries and chat-based explanations | [source](https://github.com/Calculator5329/ai-papers) |
 | **Book Recommender** | Embedding-based recommendation engine using OpenAI embeddings and FAISS | [source](https://github.com/Calculator5329/book-recommender) |
