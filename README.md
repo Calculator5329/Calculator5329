@@ -1,3 +1,21 @@
+# Hi, I'm Ethan
+
+**AI & full-stack builder in Rochester, MN**  
+**Software Engineer @ Dovaxis** · **AI/ML Master's Student @ WGU**
+
+I build practical AI tools, full-stack web apps, data-heavy dashboards, and interactive systems. My best work sits at the intersection of LLM interfaces, product engineering, visualization, and polished frontend UX.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+
+
 ## Featured Projects
 
 - 🤖 **[GatesAI Chat](https://github.com/Calculator5329/GatesAI-Chat-releases)** — Local-first AI workspace with a polished chat UI, web-lite mode, desktop releases, local tool workflows, and a sandboxed bridge for file/system actions. ([live](https://calculator5329.github.io/GatesAI-Chat/))
