@@ -22,6 +22,8 @@ I build practical AI tools, full-stack web apps, data-heavy dashboards, and inte
 
 - 🧮 **[N2K Platform](https://github.com/Calculator5329/N2K)** — Algorithmic mental-math platform with solver logic, CLI tools, competition workflows, data exports, bots, and the deployed N2K Almanac web app. ([live](https://n2k-almanac-v3.web.app))
 
+- 📈 **[Fathom](https://github.com/Calculator5329/fathom)** — Market-analysis suite with 155 years of asset-class history, portfolio backtesting, Monte Carlo retirement simulation, SEC research, and broker-CSV portfolio X-ray. ([live](https://ethan-488900.web.app))
+
 - 🧠 **[Agent V2](https://github.com/Calculator5329/agent-v2)** — Multi-provider LLM agent backend with schema-validated tools, SSE streaming, process management, and extensible tool registration.
 
 - 🧾 **[Tax Explorer](https://github.com/Calculator5329/tax-explorer)** — Interactive US tax burden dashboard with income-group comparisons, state views, personal breakdowns, and historical effective-rate trends. ([live](https://tax-explorer-app.web.app))
@@ -36,7 +38,8 @@ I build practical AI tools, full-stack web apps, data-heavy dashboards, and inte
 |---|---|---|
 | **Finance GUI** | Node-based visual retirement and financial-planning canvas | [source](https://github.com/Calculator5329/finance-gui) · [live](https://finance-gui-d5ea8.web.app) |
 | **Portfolio Analytics Lab** | Investment dashboard with transaction parsing, performance views, charts, and stock deep dives | [source](https://github.com/Calculator5329/fidelity-clone) · [live](https://fidelity-portfolio-d5ea8.web.app) |
-| **Neon Vector Defense** | Sci-fi tower-defense game with Canvas rendering, headless balance simulations, procedural audio/art, and Firebase leaderboards | [live](https://neon-vector-defense-7.web.app) |
+| **Bit Maze** | Binary-native Rust tile game with packed levels, sprites, bytecode logic, and deterministic replays | [source](https://github.com/Calculator5329/bit-maze) |
+| **Neon Vector Defense** | Sci-fi tower-defense game with Canvas rendering, headless balance simulations, procedural audio/art, and Firebase leaderboards | [source](https://github.com/Calculator5329/neon-vector-defense) · [live](https://neon-vector-defense-7.web.app) |
 | **Rhymes Highlighted** | Writing editor that highlights rhyme schemes and manages local projects | [source](https://github.com/Calculator5329/rhymes-highlighted) · [live](https://rhymes-highlighted-d5ea8.web.app) |
 | **AI Papers** | arXiv dashboard with AI-generated paper summaries and chat-based explanations | [source](https://github.com/Calculator5329/ai-papers) |
 | **Book Recommender** | Embedding-based recommendation engine using OpenAI embeddings and FAISS | [source](https://github.com/Calculator5329/book-recommender) |
