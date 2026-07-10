@@ -18,7 +18,7 @@ I build practical AI tools, full-stack web apps, data-heavy dashboards, and inte
 
 ## Featured Projects
 
-- 🤖 **[GatesAI Chat](https://github.com/Calculator5329/GatesAI-Chat-releases)** — Local-first AI workspace with a polished chat UI, web-lite mode, desktop releases, local tool workflows, and a sandboxed bridge for file/system actions. ([live](https://calculator5329.github.io/GatesAI-Chat/))
+- 🤖 **[GatesAI Chat](https://github.com/Calculator5329/GatesAI-Chat)** — Local-first AI workspace with a polished chat UI, web-lite mode, desktop releases, local tool workflows, and a sandboxed bridge for file/system actions. ([live](https://calculator5329.github.io/GatesAI-Chat/) · [installers](https://github.com/Calculator5329/GatesAI-Chat-releases))
 
 - 🧮 **[N2K Platform](https://github.com/Calculator5329/N2K)** — Algorithmic mental-math platform with solver logic, CLI tools, competition workflows, data exports, bots, and the deployed N2K Almanac web app. ([live](https://n2k-almanac-v3.web.app))
 
