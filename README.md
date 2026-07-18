@@ -29,6 +29,8 @@ I build practical AI tools, full-stack web apps, data-heavy dashboards, and inte
 
 - 🕹️ **[Bit Maze](https://github.com/Calculator5329/bit-maze)** — Binary-native Rust tile game where levels, sprites, logic, and replays are compact versioned binary files interpreted by a deterministic bytecode VM.
 
+- 🧭 **[Political Compass 2026](https://github.com/Calculator5329/political-compass)** — Political compass test for the 2026 US landscape in an ink-on-paper manuscript aesthetic: 42 public figures charted from cited evidence dossiers built by parallel AI research agents, hand-drawn faction territories, an econ×social split view, and a Firestore leaderboard. ([live](https://political-test-2026.web.app))
+
 - 🧾 **[Tax Explorer](https://github.com/Calculator5329/tax-explorer)** — Interactive US tax burden dashboard with income-group comparisons, state views, personal breakdowns, and historical effective-rate trends. ([live](https://tax-explorer-app.web.app))
 
 - ⚡ **[Circuit Builder](https://github.com/Calculator5329/circuit-builder)** — Visual digital logic circuit designer and simulator built with React, TypeScript, React Flow, and local persistence. ([live](https://circuit-builder-d5ea8.web.app))
