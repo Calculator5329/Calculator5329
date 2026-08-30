@@ -44,7 +44,7 @@ I build practical AI tools, full-stack web apps, data-heavy dashboards, and inte
 | **Finance GUI** | Node-based visual retirement and financial-planning canvas | [source](https://github.com/Calculator5329/finance-gui) · [live](https://finance-gui-d5ea8.web.app) |
 | **Neon Vector Defense** | Sci-fi tower-defense game with Canvas rendering, headless balance simulations, procedural audio/art, and Firebase leaderboards | [source](https://github.com/Calculator5329/neon-vector-defense) · [live](https://neon-vector-defense-7.web.app) |
 | **Epoch Runner** | Modular TypeScript 2D platformer engine with data-driven levels, import/export tools, and a debug overlay | [source](https://github.com/Calculator5329/epoch-runner) |
-| **MentalMath.site** | Fast-paced mental math site with minigames, leaderboards, and profiles (React, FastAPI, PostgreSQL) | [source](https://github.com/Calculator5329/n2k-webapp) · [live](https://www.mentalmath.site/) |
+| **MentalMath.site** (offline) | Fast-paced mental math site with minigames, leaderboards, and profiles (React, FastAPI, PostgreSQL) | [source](https://github.com/Calculator5329/n2k-webapp) |
 | **Rhymes Highlighted** | Writing editor that highlights rhyme schemes and manages local projects | [source](https://github.com/Calculator5329/rhymes-highlighted) · [live](https://rhymes-highlighted-d5ea8.web.app) |
 | **AI Papers** | arXiv dashboard with AI-generated paper summaries and chat-based explanations | [source](https://github.com/Calculator5329/ai-papers) · [live](https://calculator5329.github.io/ai-papers/) |
 | **Book Recommender** | Embedding-based recommendation engine using OpenAI embeddings and FAISS | [source](https://github.com/Calculator5329/book-recommender) |
