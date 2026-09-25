@@ -16,7 +16,7 @@ data-heavy web apps with a lot of care put into the frontend.
 
 ## Top projects
 
-- 🤖 **[GatesAI Chat](https://gatesai.site/)**: a local-first AI chat workspace you run on your own machine, with your own models. Desktop app in React 19, Tauri 2 and Rust with a Go sidecar for file, shell, git and SQLite tools, plus semantic memory and background sub-agents. Chat with any OpenRouter model or a local Ollama one. 1,100+ automated tests and installers for Windows, macOS and Linux. [Try the browser build](https://gatesai.site/) · [source](https://github.com/Calculator5329/GatesAI-Chat) · [installers](https://github.com/Calculator5329/GatesAI-Chat-releases)
+- 🤖 **[GatesAI Chat](https://gatesai.web.app/)**: a local-first AI chat workspace you run on your own machine, with your own models. Desktop app in React 19, Tauri 2 and Rust with a Go sidecar for file, shell, git and SQLite tools, plus semantic memory and background sub-agents. Chat with any OpenRouter model or a local Ollama one. 1,100+ automated tests and installers for Windows, macOS and Linux. [Try the browser build](https://gatesai.web.app/) · [source](https://github.com/Calculator5329/GatesAI-Chat) · [installers](https://github.com/Calculator5329/GatesAI-Chat-releases)
 
 - 🎯 **[Agent Handles](https://agent-handles.web.app)**: makes a web app's interface addressable by coding agents. A Vite plugin verifies a stable identity on every interactive element, a generated registry maps each one to its source line, journeys are tests written as data and compiled to Playwright, and a drive API lets an agent operate the running app with a receipt for every action. The site shows a real app driven end to end. Source is private while it stabilizes.
 
@@ -32,7 +32,7 @@ data-heavy web apps with a lot of care put into the frontend.
 
 - 🖼️ **[Media Vault](https://github.com/Calculator5329/media-vault-oss)**: a private photo and video library that runs on your own computer. Timeline, people, places, trips and search, with optional local AI for faces, text in photos, image search by description and video transcripts. One command sets it up, originals are never touched, and nothing leaves the machine.
 - 🗣️ **[Milo](https://github.com/Calculator5329/milo)**: a local voice companion. whisper.cpp, Ollama and Pocket TTS in one Python process, interruptible mid-sentence, first audio about 300 ms after you stop talking, and an animated SVG robot whose mouth follows real playback amplitude. A coding agent sets it up from the repo's `CLAUDE.md`.
-- 🧰 **Agent harness**: run one turn of a headless coding agent (Claude Code, Codex, Cursor) and get back a receipt you can trust: what it did, what it cost, what it printed with secrets removed, whether it was killed, and separately what it claims it did. Public soon.
+- 🧰 **Agent harness**: run one turn of a headless coding agent (Claude Code, Codex, Cursor) and get back a receipt you can trust: what it did, what it cost, what it printed with secrets removed, whether it was killed, and separately what it claims it did. Private for now.
 
 ## More projects
 
