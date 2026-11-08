@@ -29,8 +29,12 @@ data-heavy web apps with a lot of care put into the frontend.
 
 ## Working on now
 
+- 🖥️ **Gates Local**: a local-only AI desktop app for Linux. Electron runs a Node server that finds or starts Ollama and sizes each model's context window to what actually fits on the GPU, plus local tools over docs and databases you add, opt-in ComfyUI images, and built-in benchmarks that pick defaults from real runs on your machine. No cloud, no API keys. Private while it's early.
+- 📰 **Tape**: an after-the-close daily market brief. A Python pipeline writes one section per topic each trading day (market map, sectors, breadth, movers, earnings, valuation, why-it-moved), FastAPI merges them, and a Vite app renders the day, plus monthly and yearly reports built from the archive. Free data sources only. Private for now.
+- 🚀 **[Zillionaut](https://zillionaut.web.app)**: a browser space-trading game built on the mechanics of Gazillionaire (1994), with all-new planets, goods, captains, art, audio and writing. Fly between seven planets, buy low, sell high, carry passengers, dodge taxes and loan sharks, and finish the season richer than up to five AI rivals. Works at phone width.
+- 📱 **Untitled mobile game**: a mobile sci-fi settlement and exploration game in Godot. Build and manage a settlement from above, walk through it, and send expeditions whose outcomes persist back home. Early prototype with an Android build; name and art direction still open.
 - 🖼️ **[Media Vault](https://github.com/Calculator5329/media-vault-oss)**: a private photo and video library that runs on your own computer. Timeline, people, places, trips and search, with optional local AI for faces, text in photos, image search by description and video transcripts. One command sets it up, originals are never touched, and nothing leaves the machine.
-- 🗣️ **[Milo](https://github.com/Calculator5329/milo)**: a local voice companion. whisper.cpp, Ollama and Pocket TTS in one Python process, interruptible mid-sentence, and an animated SVG robot whose mouth follows real playback amplitude. A coding agent sets it up from the repo's `CLAUDE.md`.
+- 🗣️ **[Milo](https://github.com/Calculator5329/milo)**: a small robot companion with its own personality, run by a model I fine-tuned. A LoRA on Gemma 4 E4B, trained over four data rounds on 4,000+ written scenes, answers every turn as structured output: what to say, one of 24 facial expressions, a sound, and a body action such as look at, approach, poke, hide or dock. Runtime guards keep it quiet during phone calls and in character, and checkable questions get a web lookup first. Speech stays local and interruptible mid-sentence (whisper.cpp, Ollama, Pocket TTS).
 
 ## More projects
 
